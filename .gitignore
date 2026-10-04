@@ -1,0 +1,8 @@
+*.out
+*.o
+*.exe
+a.out
+lex.yy.c
+tempCodeRunnerFile*
+.DS_Store
+__pycache__/
